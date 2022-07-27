@@ -6,6 +6,17 @@ ul {
     font-family: helvetica;
 }
 
+h2 {
+    font-size: 2rem;
+}
+
+h1 {
+    color: #009614;
+}
+
 .btn {
-    color: #467599;
+    color: #a514c2;
+}
+.btn-alert {
+    color: red;
 }
